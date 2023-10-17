@@ -1,0 +1,7 @@
+Id,FirstName,LastName,Age,Specialty;
+0,John,Doe,22,Science;
+1,Alice,Smith,25,Science;
+2,Bob,Johnson,30,Science;
+3,Vova,Zelenskiy,45,Programming;
+4,Eve,Adams,21,Science;
+5,Charlie,Brown,28,Programming;
